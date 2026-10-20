@@ -1,0 +1,4872 @@
+{
+ "combos": [
+  {
+   "constraints": {
+    "max_kcal": 500,
+    "max_sodium_mg": 600
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "min_protein_g": 20,
+    "max_kcal": 400
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Classic Burger",
+      "Milk"
+     ],
+     19.55
+    ],
+    [
+     [
+      "Classic Burger",
+      "Apple Slices",
+      "Milk"
+     ],
+     19.7
+    ],
+    [
+     [
+      "Classic Burger",
+      "Side Salad",
+      "Milk"
+     ],
+     19.9
+    ],
+    [
+     [
+      "Classic Burger",
+      "Black Coffee",
+      "Milk"
+     ],
+     19.9
+    ],
+    [
+     [
+      "Classic Burger",
+      "Diet Cola (medium)",
+      "Milk"
+     ],
+     20.45
+    ]
+   ]
+  },
+  {
+   "constraints": {},
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 700
+   },
+   "max_size": 2,
+   "limit": 8,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Orange Juice",
+      "Iced Tea"
+     ],
+     2.2
+    ],
+    [
+     [
+      "Apple Slices",
+      "Orange Juice"
+     ],
+     2.225
+    ],
+    [
+     [
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.3
+    ],
+    [
+     [
+      "Apple Slices",
+      "Cola (medium)"
+     ],
+     2.6
+    ],
+    [
+     [
+      "Corn Cup",
+      "Iced Tea"
+     ],
+     2.6
+    ],
+    [
+     [
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.675
+    ],
+    [
+     [
+      "Black Coffee",
+      "Cola (medium)"
+     ],
+     2.8
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 300
+   },
+   "max_size": 4,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "min_calcium_mg": 300,
+    "max_kcal": 600
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Milk"
+     ],
+     4.3
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk"
+     ],
+     4.4
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Milk"
+     ],
+     4.5
+    ],
+    [
+     [
+      "Corn Cup",
+      "Black Coffee",
+      "Milk"
+     ],
+     4.625
+    ],
+    [
+     [
+      "Orange Juice",
+      "Milk"
+     ],
+     4.75
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_fat_g": 10,
+    "min_protein_g": 15
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     7.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk",
+      "Vanilla Cone"
+     ],
+     7.8
+    ],
+    [
+     [
+      "Orange Juice",
+      "Milk",
+      "Vanilla Cone"
+     ],
+     8.4
+    ],
+    [
+     [
+      "Milk",
+      "Yogurt Parfait",
+      "Vanilla Cone"
+     ],
+     10.2
+    ],
+    [
+     [
+      "Classic Burger",
+      "Corn Cup"
+     ],
+     16.6
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "categories": [
+     "burger",
+     "drink"
+    ],
+    "max_kcal": 650
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Orange Juice",
+      "Iced Tea"
+     ],
+     2.2
+    ],
+    [
+     [
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.675
+    ],
+    [
+     [
+      "Black Coffee",
+      "Cola (medium)"
+     ],
+     2.8
+    ],
+    [
+     [
+      "Orange Juice",
+      "Diet Cola (medium)"
+     ],
+     3.35
+    ],
+    [
+     [
+      "Cola (medium)",
+      "Diet Cola (medium)"
+     ],
+     3.35
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "exclude": [
+     "Side Salad",
+     "Apple Slices"
+    ],
+    "max_kcal": 450
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Orange Juice",
+      "Iced Tea"
+     ],
+     2.2
+    ],
+    [
+     [
+      "Corn Cup",
+      "Iced Tea"
+     ],
+     2.6
+    ],
+    [
+     [
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.675
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 304,
+    "max_sodium_mg": 198,
+    "max_fat_g": 39,
+    "min_protein_g": 42,
+    "min_calcium_mg": 309,
+    "exclude": [
+     "Side Salad",
+     "Double Cheeseburger",
+     "Egg Muffin"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": []
+  },
+  {
+   "constraints": {
+    "max_kcal": 584,
+    "max_sodium_mg": 1258,
+    "max_fat_g": 19,
+    "categories": [
+     "burger",
+     "side",
+     "other",
+     "drink"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 270,
+    "min_calcium_mg": 342
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Side Salad",
+      "Orange Juice",
+      "Milk"
+     ],
+     5.1
+    ],
+    [
+     [
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.55
+    ],
+    [
+     [
+      "Apple Slices",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.7
+    ],
+    [
+     [
+      "Side Salad",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ],
+    [
+     [
+      "Black Coffee",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 222
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 608,
+    "min_calcium_mg": 344
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Side Salad",
+      "Orange Juice",
+      "Milk"
+     ],
+     5.1
+    ],
+    [
+     [
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.55
+    ],
+    [
+     [
+      "Apple Slices",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.7
+    ],
+    [
+     [
+      "Side Salad",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ],
+    [
+     [
+      "Black Coffee",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 609,
+    "max_sodium_mg": 249,
+    "max_fat_g": 31,
+    "min_protein_g": 26,
+    "min_calcium_mg": 300
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": []
+  },
+  {
+   "constraints": {
+    "max_kcal": 721,
+    "min_protein_g": 27
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Fish Fillet",
+      "Corn Cup",
+      "Milk"
+     ],
+     22.45
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices"
+     ],
+     23.75
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Side Salad"
+     ],
+     23.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Black Coffee"
+     ],
+     23.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Black Coffee"
+     ],
+     24.1
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "min_calcium_mg": 409
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.55
+    ],
+    [
+     [
+      "Apple Slices",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.7
+    ],
+    [
+     [
+      "Side Salad",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ],
+    [
+     [
+      "Black Coffee",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     7.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 1567,
+    "max_fat_g": 27,
+    "min_protein_g": 34,
+    "min_calcium_mg": 362,
+    "categories": [
+     "side"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": []
+  },
+  {
+   "constraints": {
+    "max_kcal": 403,
+    "max_sodium_mg": 1116,
+    "max_fat_g": 33,
+    "min_protein_g": 22
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices"
+     ],
+     23.75
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Side Salad"
+     ],
+     23.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Black Coffee"
+     ],
+     23.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Black Coffee"
+     ],
+     24.1
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Diet Cola (medium)"
+     ],
+     24.5
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 575,
+    "min_protein_g": 19,
+    "min_calcium_mg": 140,
+    "categories": [
+     "burger",
+     "dessert"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Fish Fillet",
+      "Yogurt Parfait"
+     ],
+     21.3
+    ],
+    [
+     [
+      "Cheeseburger",
+      "Yogurt Parfait"
+     ],
+     25.35
+    ],
+    [
+     [
+      "Cheeseburger",
+      "Vanilla Cone"
+     ],
+     26.0
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Yogurt Parfait"
+     ],
+     26.6
+    ],
+    [
+     [
+      "Egg Muffin",
+      "Yogurt Parfait"
+     ],
+     26.65
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 438,
+    "max_sodium_mg": 958,
+    "min_calcium_mg": 114
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Yogurt Parfait"
+     ],
+     3.6
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Yogurt Parfait"
+     ],
+     3.75
+    ],
+    [
+     [
+      "Apple Slices",
+      "Vanilla Cone"
+     ],
+     3.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Yogurt Parfait"
+     ],
+     3.875
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Yogurt Parfait"
+     ],
+     3.95
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_fat_g": 40,
+    "min_protein_g": 30,
+    "min_calcium_mg": 296,
+    "exclude": [
+     "Double Cheeseburger",
+     "Fish Fillet",
+     "Corn Cup"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Milk"
+     ],
+     27.15
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Milk"
+     ],
+     27.3
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Black Coffee",
+      "Milk"
+     ],
+     27.5
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Side Salad",
+      "Milk"
+     ],
+     27.5
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Orange Juice",
+      "Yogurt Parfait"
+     ],
+     27.8
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 498,
+    "max_fat_g": 41,
+    "min_protein_g": 11,
+    "exclude": [
+     "Fish Fillet",
+     "Orange Juice",
+     "6 Chicken Nuggets"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Milk"
+     ],
+     4.3
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk"
+     ],
+     4.4
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Milk"
+     ],
+     4.5
+    ],
+    [
+     [
+      "Corn Cup",
+      "Black Coffee",
+      "Milk"
+     ],
+     4.625
+    ],
+    [
+     [
+      "Apple Slices",
+      "Latte"
+     ],
+     4.75
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 408,
+    "min_calcium_mg": 299
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Milk"
+     ],
+     4.3
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk"
+     ],
+     4.4
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Milk"
+     ],
+     4.5
+    ],
+    [
+     [
+      "Corn Cup",
+      "Black Coffee",
+      "Milk"
+     ],
+     4.625
+    ],
+    [
+     [
+      "Orange Juice",
+      "Milk"
+     ],
+     4.75
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 309
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 690,
+    "max_sodium_mg": 1513,
+    "min_protein_g": 38,
+    "min_calcium_mg": 379
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Milk"
+     ],
+     27.15
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Milk"
+     ],
+     27.3
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Black Coffee",
+      "Milk"
+     ],
+     27.5
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Side Salad",
+      "Milk"
+     ],
+     27.5
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Corn Cup",
+      "Milk"
+     ],
+     27.75
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 525,
+    "max_fat_g": 19
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {},
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 159,
+    "categories": [
+     "dessert",
+     "drink",
+     "side"
+    ],
+    "exclude": [
+     "Big Stack",
+     "Egg Muffin",
+     "Apple Slices"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Orange Juice",
+      "Iced Tea"
+     ],
+     2.2
+    ],
+    [
+     [
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.3
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 359,
+    "min_calcium_mg": 384
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.55
+    ],
+    [
+     [
+      "Apple Slices",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.7
+    ],
+    [
+     [
+      "Side Salad",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ],
+    [
+     [
+      "Black Coffee",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     7.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 895,
+    "categories": [
+     "burger",
+     "dessert",
+     "side"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Apple Slices",
+      "Corn Cup"
+     ],
+     3.125
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad"
+     ],
+     3.2
+    ],
+    [
+     [
+      "Corn Cup",
+      "Yogurt Parfait"
+     ],
+     3.6
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Yogurt Parfait"
+     ],
+     3.75
+    ],
+    [
+     [
+      "Apple Slices",
+      "Vanilla Cone"
+     ],
+     3.8
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_fat_g": 13,
+    "min_protein_g": 42,
+    "exclude": [
+     "Chocolate Sundae",
+     "Orange Juice",
+     "Apple Slices"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Corn Cup",
+      "Milk"
+     ],
+     27.75
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 1223,
+    "min_protein_g": 11
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Milk"
+     ],
+     4.3
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk"
+     ],
+     4.4
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Milk"
+     ],
+     4.5
+    ],
+    [
+     [
+      "Corn Cup",
+      "Black Coffee",
+      "Milk"
+     ],
+     4.625
+    ],
+    [
+     [
+      "Side Salad",
+      "Orange Juice",
+      "Milk"
+     ],
+     5.1
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_fat_g": 21,
+    "min_protein_g": 37,
+    "min_calcium_mg": 350
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Milk"
+     ],
+     27.15
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Milk"
+     ],
+     27.3
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Black Coffee",
+      "Milk"
+     ],
+     27.5
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Side Salad",
+      "Milk"
+     ],
+     27.5
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Corn Cup",
+      "Milk"
+     ],
+     27.75
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 824
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 410,
+    "min_protein_g": 33
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": []
+  },
+  {
+   "constraints": {
+    "max_kcal": 294,
+    "min_calcium_mg": 315
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Milk"
+     ],
+     4.5
+    ],
+    [
+     [
+      "Orange Juice",
+      "Milk"
+     ],
+     4.75
+    ],
+    [
+     [
+      "Apple Slices",
+      "Orange Juice",
+      "Milk"
+     ],
+     4.9
+    ],
+    [
+     [
+      "Side Salad",
+      "Orange Juice",
+      "Milk"
+     ],
+     5.1
+    ],
+    [
+     [
+      "Side Salad",
+      "Iced Tea",
+      "Milk"
+     ],
+     5.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_fat_g": 17,
+    "min_protein_g": 11
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Milk"
+     ],
+     4.3
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk"
+     ],
+     4.4
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Milk"
+     ],
+     4.5
+    ],
+    [
+     [
+      "Corn Cup",
+      "Black Coffee",
+      "Milk"
+     ],
+     4.625
+    ],
+    [
+     [
+      "Side Salad",
+      "Orange Juice",
+      "Milk"
+     ],
+     5.1
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 1354,
+    "min_calcium_mg": 191
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Milk"
+     ],
+     4.3
+    ],
+    [
+     [
+      "Corn Cup",
+      "Milk"
+     ],
+     4.4
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Milk"
+     ],
+     4.5
+    ],
+    [
+     [
+      "Side Salad",
+      "Orange Juice",
+      "Yogurt Parfait"
+     ],
+     4.55
+    ],
+    [
+     [
+      "Corn Cup",
+      "Black Coffee",
+      "Milk"
+     ],
+     4.625
+    ]
+   ]
+  },
+  {
+   "constraints": {},
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_fat_g": 12,
+    "min_protein_g": 25,
+    "min_calcium_mg": 173
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Yogurt Parfait"
+     ],
+     26.6
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Yogurt Parfait"
+     ],
+     26.75
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Side Salad",
+      "Yogurt Parfait"
+     ],
+     26.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Black Coffee",
+      "Yogurt Parfait"
+     ],
+     26.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Milk"
+     ],
+     27.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 275,
+    "max_fat_g": 28,
+    "min_protein_g": 13
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Side Salad",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ],
+    [
+     [
+      "Apple Slices",
+      "6 Chicken Nuggets"
+     ],
+     15.55
+    ],
+    [
+     [
+      "6 Chicken Nuggets",
+      "Black Coffee"
+     ],
+     15.75
+    ],
+    [
+     [
+      "Side Salad",
+      "6 Chicken Nuggets"
+     ],
+     15.75
+    ],
+    [
+     [
+      "Apple Slices",
+      "6 Chicken Nuggets",
+      "Black Coffee"
+     ],
+     15.9
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 648,
+    "max_sodium_mg": 1467,
+    "min_protein_g": 32
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices"
+     ],
+     23.75
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Side Salad"
+     ],
+     23.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Black Coffee"
+     ],
+     23.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Black Coffee"
+     ],
+     24.1
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Side Salad"
+     ],
+     24.1
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 244,
+    "max_fat_g": 40
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Orange Juice",
+      "Iced Tea"
+     ],
+     2.2
+    ],
+    [
+     [
+      "Apple Slices",
+      "Orange Juice"
+     ],
+     2.225
+    ],
+    [
+     [
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.3
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 215,
+    "max_sodium_mg": 568,
+    "min_protein_g": 21,
+    "min_calcium_mg": 448,
+    "categories": [
+     "dessert",
+     "drink"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": []
+  },
+  {
+   "constraints": {
+    "min_protein_g": 22,
+    "min_calcium_mg": 402,
+    "categories": [
+     "drink"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": []
+  },
+  {
+   "constraints": {
+    "max_fat_g": 19,
+    "min_protein_g": 12
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Milk"
+     ],
+     4.5
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Milk"
+     ],
+     5.35
+    ],
+    [
+     [
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.55
+    ],
+    [
+     [
+      "Apple Slices",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.7
+    ],
+    [
+     [
+      "Side Salad",
+      "Milk",
+      "Yogurt Parfait"
+     ],
+     6.9
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 364,
+    "max_fat_g": 20,
+    "exclude": [
+     "Breakfast Burrito",
+     "Small Fries",
+     "Milk"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.8
+    ],
+    [
+     [
+      "Apple Slices",
+      "Corn Cup",
+      "Orange Juice"
+     ],
+     1.95
+    ],
+    [
+     [
+      "Apple Slices",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.075
+    ],
+    [
+     [
+      "Corn Cup",
+      "Side Salad",
+      "Orange Juice"
+     ],
+     2.15
+    ],
+    [
+     [
+      "Corn Cup",
+      "Orange Juice",
+      "Black Coffee"
+     ],
+     2.15
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_kcal": 927,
+    "max_sodium_mg": 1012,
+    "min_protein_g": 27,
+    "exclude": [
+     "Classic Burger",
+     "Iced Tea",
+     "Hash Brown"
+    ]
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Milk",
+      "Latte",
+      "Chocolate Sundae"
+     ],
+     15.2
+    ],
+    [
+     [
+      "Fish Fillet",
+      "Corn Cup",
+      "Milk"
+     ],
+     22.45
+    ],
+    [
+     [
+      "Fish Fillet",
+      "Latte"
+     ],
+     22.9
+    ],
+    [
+     [
+      "Fish Fillet",
+      "Apple Slices",
+      "Latte"
+     ],
+     23.05
+    ],
+    [
+     [
+      "Fish Fillet",
+      "Side Salad",
+      "Latte"
+     ],
+     23.25
+    ]
+   ]
+  },
+  {
+   "constraints": {
+    "max_sodium_mg": 1072,
+    "max_fat_g": 33,
+    "min_protein_g": 32
+   },
+   "max_size": 3,
+   "limit": 5,
+   "combos": [
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices"
+     ],
+     23.75
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Side Salad"
+     ],
+     23.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Black Coffee"
+     ],
+     23.95
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Black Coffee"
+     ],
+     24.1
+    ],
+    [
+     [
+      "Grilled Chicken Sandwich",
+      "Apple Slices",
+      "Side Salad"
+     ],
+     24.1
+    ]
+   ]
+  }
+ ],
+ "budgets": [
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "18:40",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 285,
+       "protein": 21
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 193,
+       "protein": 25
+      },
+      {
+       "kcal": 405,
+       "protein": 3
+      },
+      {
+       "kcal": 182,
+       "protein": 0
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 311,
+       "protein": 27
+      },
+      {
+       "kcal": 217,
+       "protein": 3
+      },
+      {
+       "kcal": 136,
+       "protein": 24
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 471,
+   "protein_gap_g": 17.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 96,
+       "protein": 29
+      },
+      {
+       "kcal": 239,
+       "protein": 10
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 319,
+       "protein": 23
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1546,
+   "protein_gap_g": 28.0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 1546
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 237,
+       "protein": 0
+      },
+      {
+       "kcal": 393,
+       "protein": 24
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 564,
+       "protein": 12
+      },
+      {
+       "kcal": 304,
+       "protein": 32
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -98,
+   "protein_gap_g": 22.0,
+   "open_meals": [
+    "breakfast"
+   ],
+   "meal_budgets": {
+    "breakfast": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 453,
+       "protein": 1
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 288,
+       "protein": 5
+      },
+      {
+       "kcal": 649,
+       "protein": 33
+      },
+      {
+       "kcal": 208,
+       "protein": 38
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 556,
+       "protein": 9
+      },
+      {
+       "kcal": 340,
+       "protein": 39
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -1094,
+   "protein_gap_g": 0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [],
+   "remaining_kcal": 2200,
+   "protein_gap_g": 60.0,
+   "open_meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "breakfast": 660,
+    "lunch": 880,
+    "dinner": 660
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 419,
+       "protein": 6
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 621,
+       "protein": 3
+      },
+      {
+       "kcal": 692,
+       "protein": 1
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 68,
+   "protein_gap_g": 80.0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 68
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": true,
+   "now": "23:59",
+   "eaten": [],
+   "remaining_kcal": 2200,
+   "protein_gap_g": 120.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 321,
+       "protein": 15
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 521,
+       "protein": 31
+      },
+      {
+       "kcal": 441,
+       "protein": 4
+      },
+      {
+       "kcal": 540,
+       "protein": 18
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -423,
+   "protein_gap_g": 52.0,
+   "open_meals": [
+    "breakfast",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "breakfast": 0,
+    "dinner": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 361,
+       "protein": 39
+      },
+      {
+       "kcal": 631,
+       "protein": 8
+      },
+      {
+       "kcal": 62,
+       "protein": 30
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 151,
+       "protein": 13
+      },
+      {
+       "kcal": 551,
+       "protein": 18
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 44,
+   "protein_gap_g": 0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": true,
+   "now": "18:40",
+   "eaten": [
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 534,
+       "protein": 1
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1266,
+   "protein_gap_g": 89.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "11:00",
+   "eaten": [
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 265,
+       "protein": 4
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1135,
+   "protein_gap_g": 116.0,
+   "open_meals": [
+    "lunch"
+   ],
+   "meal_budgets": {
+    "lunch": 1135
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 570,
+       "protein": 17
+      },
+      {
+       "kcal": 165,
+       "protein": 23
+      },
+      {
+       "kcal": 286,
+       "protein": 31
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 553,
+       "protein": 28
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 226,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 226
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": true,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 173,
+       "protein": 21
+      },
+      {
+       "kcal": 51,
+       "protein": 20
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 62,
+       "protein": 18
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1514,
+   "protein_gap_g": 31.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 128,
+       "protein": 23
+      },
+      {
+       "kcal": 488,
+       "protein": 17
+      },
+      {
+       "kcal": 99,
+       "protein": 17
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 342,
+       "protein": 40
+      },
+      {
+       "kcal": 202,
+       "protein": 15
+      },
+      {
+       "kcal": 322,
+       "protein": 27
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 488,
+       "protein": 1
+      },
+      {
+       "kcal": 696,
+       "protein": 25
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -565,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 470,
+       "protein": 28
+      },
+      {
+       "kcal": 679,
+       "protein": 8
+      },
+      {
+       "kcal": 343,
+       "protein": 31
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 180,
+       "protein": 10
+      },
+      {
+       "kcal": 533,
+       "protein": 26
+      },
+      {
+       "kcal": 401,
+       "protein": 18
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 316,
+       "protein": 25
+      },
+      {
+       "kcal": 294,
+       "protein": 19
+      },
+      {
+       "kcal": 544,
+       "protein": 35
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -2360,
+   "protein_gap_g": 0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": true,
+   "now": "11:00",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 613,
+       "protein": 14
+      },
+      {
+       "kcal": 513,
+       "protein": 21
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 299,
+       "protein": 5
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -25,
+   "protein_gap_g": 50.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 633,
+       "protein": 12
+      },
+      {
+       "kcal": 70,
+       "protein": 26
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 586,
+       "protein": 13
+      },
+      {
+       "kcal": 435,
+       "protein": 17
+      },
+      {
+       "kcal": 396,
+       "protein": 3
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -320,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "18:40",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 443,
+       "protein": 25
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 180,
+       "protein": 2
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1177,
+   "protein_gap_g": 93.0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 1177
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": true,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 529,
+       "protein": 28
+      },
+      {
+       "kcal": 304,
+       "protein": 6
+      },
+      {
+       "kcal": 279,
+       "protein": 9
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 161,
+       "protein": 29
+      },
+      {
+       "kcal": 137,
+       "protein": 35
+      },
+      {
+       "kcal": 90,
+       "protein": 0
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -100,
+   "protein_gap_g": 13.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [],
+   "remaining_kcal": 1800,
+   "protein_gap_g": 120.0,
+   "open_meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "breakfast": 540,
+    "lunch": 720,
+    "dinner": 540
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 646,
+       "protein": 12
+      },
+      {
+       "kcal": 447,
+       "protein": 16
+      },
+      {
+       "kcal": 278,
+       "protein": 38
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 358,
+       "protein": 29
+      },
+      {
+       "kcal": 335,
+       "protein": 20
+      },
+      {
+       "kcal": 298,
+       "protein": 30
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -962,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 480,
+       "protein": 5
+      },
+      {
+       "kcal": 313,
+       "protein": 14
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 396,
+       "protein": 26
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 611,
+   "protein_gap_g": 75.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 566,
+       "protein": 4
+      },
+      {
+       "kcal": 260,
+       "protein": 31
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 286,
+       "protein": 29
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 161,
+       "protein": 39
+      },
+      {
+       "kcal": 557,
+       "protein": 39
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -430,
+   "protein_gap_g": 0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 199,
+       "protein": 25
+      },
+      {
+       "kcal": 105,
+       "protein": 13
+      },
+      {
+       "kcal": 74,
+       "protein": 38
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 111,
+       "protein": 11
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 371,
+       "protein": 7
+      },
+      {
+       "kcal": 131,
+       "protein": 10
+      },
+      {
+       "kcal": 387,
+       "protein": 12
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 22,
+   "protein_gap_g": 4.0,
+   "open_meals": [
+    "breakfast"
+   ],
+   "meal_budgets": {
+    "breakfast": 22
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 437,
+       "protein": 23
+      },
+      {
+       "kcal": 389,
+       "protein": 28
+      },
+      {
+       "kcal": 223,
+       "protein": 6
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 132,
+       "protein": 22
+      },
+      {
+       "kcal": 480,
+       "protein": 7
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 139,
+   "protein_gap_g": 4.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 534,
+       "protein": 12
+      },
+      {
+       "kcal": 431,
+       "protein": 34
+      },
+      {
+       "kcal": 507,
+       "protein": 12
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 535,
+       "protein": 1
+      },
+      {
+       "kcal": 696,
+       "protein": 26
+      },
+      {
+       "kcal": 303,
+       "protein": 40
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 525,
+       "protein": 4
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -2131,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "11:00",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 397,
+       "protein": 23
+      },
+      {
+       "kcal": 328,
+       "protein": 21
+      },
+      {
+       "kcal": 681,
+       "protein": 2
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 374,
+       "protein": 17
+      },
+      {
+       "kcal": 354,
+       "protein": 0
+      },
+      {
+       "kcal": 659,
+       "protein": 40
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 159,
+       "protein": 30
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -752,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "11:00",
+   "eaten": [
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 237,
+       "protein": 0
+      },
+      {
+       "kcal": 360,
+       "protein": 9
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1203,
+   "protein_gap_g": 81.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 303,
+       "protein": 26
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1097,
+   "protein_gap_g": 94.0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 1097
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 157,
+       "protein": 4
+      },
+      {
+       "kcal": 321,
+       "protein": 39
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 481,
+       "protein": 31
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 841,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "breakfast"
+   ],
+   "meal_budgets": {
+    "breakfast": 841
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "11:00",
+   "eaten": [],
+   "remaining_kcal": 2200,
+   "protein_gap_g": 60.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 431,
+       "protein": 16
+      },
+      {
+       "kcal": 316,
+       "protein": 12
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 207,
+       "protein": 18
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1246,
+   "protein_gap_g": 14.0,
+   "open_meals": [
+    "lunch"
+   ],
+   "meal_budgets": {
+    "lunch": 1246
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 569,
+       "protein": 33
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 525,
+       "protein": 2
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 286,
+       "protein": 28
+      },
+      {
+       "kcal": 432,
+       "protein": 2
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -412,
+   "protein_gap_g": 0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 431,
+       "protein": 32
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1369,
+   "protein_gap_g": 88.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "11:00",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 684,
+       "protein": 22
+      },
+      {
+       "kcal": 272,
+       "protein": 2
+      },
+      {
+       "kcal": 427,
+       "protein": 21
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 311,
+       "protein": 2
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 506,
+   "protein_gap_g": 13.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 369,
+       "protein": 4
+      },
+      {
+       "kcal": 258,
+       "protein": 2
+      },
+      {
+       "kcal": 557,
+       "protein": 35
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 616,
+   "protein_gap_g": 79.0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 616
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 469,
+       "protein": 18
+      },
+      {
+       "kcal": 364,
+       "protein": 26
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 967,
+   "protein_gap_g": 76.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 450,
+       "protein": 25
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 950,
+   "protein_gap_g": 35.0,
+   "open_meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "breakfast": 238,
+    "lunch": 332,
+    "dinner": 380
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [],
+   "remaining_kcal": 1800,
+   "protein_gap_g": 60.0,
+   "open_meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "breakfast": 540,
+    "lunch": 720,
+    "dinner": 540
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "11:00",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 456,
+       "protein": 5
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 944,
+   "protein_gap_g": 55.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 118,
+       "protein": 6
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 358,
+       "protein": 8
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 372,
+       "protein": 3
+      },
+      {
+       "kcal": 672,
+       "protein": 40
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 280,
+   "protein_gap_g": 3.0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 280
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "18:40",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 679,
+       "protein": 12
+      },
+      {
+       "kcal": 534,
+       "protein": 11
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 210,
+       "protein": 24
+      },
+      {
+       "kcal": 417,
+       "protein": 7
+      },
+      {
+       "kcal": 203,
+       "protein": 15
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 157,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 157
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "11:00",
+   "eaten": [
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 663,
+       "protein": 29
+      },
+      {
+       "kcal": 613,
+       "protein": 40
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 524,
+   "protein_gap_g": 51.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [],
+   "remaining_kcal": 1800,
+   "protein_gap_g": 60.0,
+   "open_meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "breakfast": 540,
+    "lunch": 720,
+    "dinner": 540
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 519,
+       "protein": 11
+      },
+      {
+       "kcal": 534,
+       "protein": 25
+      },
+      {
+       "kcal": 159,
+       "protein": 4
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 424,
+       "protein": 5
+      },
+      {
+       "kcal": 502,
+       "protein": 32
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 62,
+   "protein_gap_g": 43.0,
+   "open_meals": [
+    "breakfast",
+    "lunch"
+   ],
+   "meal_budgets": {
+    "breakfast": 27,
+    "lunch": 35
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": true,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 371,
+       "protein": 32
+      },
+      {
+       "kcal": 131,
+       "protein": 3
+      },
+      {
+       "kcal": 566,
+       "protein": 24
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 332,
+   "protein_gap_g": 1.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 344,
+       "protein": 10
+      },
+      {
+       "kcal": 276,
+       "protein": 4
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 678,
+       "protein": 17
+      },
+      {
+       "kcal": 517,
+       "protein": 9
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -15,
+   "protein_gap_g": 80.0,
+   "open_meals": [
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "lunch": 0,
+    "dinner": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 87,
+       "protein": 12
+      },
+      {
+       "kcal": 236,
+       "protein": 25
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 385,
+       "protein": 24
+      },
+      {
+       "kcal": 222,
+       "protein": 16
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 470,
+   "protein_gap_g": 43.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "18:40",
+   "eaten": [],
+   "remaining_kcal": 2200,
+   "protein_gap_g": 60.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "11:00",
+   "eaten": [
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 321,
+       "protein": 24
+      },
+      {
+       "kcal": 427,
+       "protein": 36
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 133,
+       "protein": 28
+      },
+      {
+       "kcal": 285,
+       "protein": 11
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 234,
+   "protein_gap_g": 0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [],
+   "remaining_kcal": 1800,
+   "protein_gap_g": 120.0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 1800
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": true,
+   "now": null,
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 347,
+       "protein": 39
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 185,
+       "protein": 31
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 868,
+   "protein_gap_g": 50.0,
+   "open_meals": [
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "lunch": 496,
+    "dinner": 372
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 413,
+       "protein": 19
+      },
+      {
+       "kcal": 158,
+       "protein": 33
+      },
+      {
+       "kcal": 415,
+       "protein": 34
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 358,
+       "protein": 37
+      },
+      {
+       "kcal": 186,
+       "protein": 13
+      },
+      {
+       "kcal": 425,
+       "protein": 39
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 299,
+       "protein": 9
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -454,
+   "protein_gap_g": 0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 0
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 326,
+       "protein": 25
+      },
+      {
+       "kcal": 320,
+       "protein": 0
+      },
+      {
+       "kcal": 107,
+       "protein": 35
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1447,
+   "protein_gap_g": 60.0,
+   "open_meals": [
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "lunch": 675,
+    "dinner": 772
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": true,
+   "now": "08:15",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 95,
+       "protein": 3
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 157,
+       "protein": 0
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": 1948,
+   "protein_gap_g": 117.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 1800,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "18:40",
+   "eaten": [],
+   "remaining_kcal": 1800,
+   "protein_gap_g": 120.0,
+   "open_meals": [
+    "dinner"
+   ],
+   "meal_budgets": {
+    "dinner": 1800
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 90,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 690,
+       "protein": 3
+      },
+      {
+       "kcal": 539,
+       "protein": 34
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 526,
+       "protein": 5
+      },
+      {
+       "kcal": 513,
+       "protein": 11
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 317,
+       "protein": 14
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -1185,
+   "protein_gap_g": 23.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": true,
+   "now": "15:10",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 617,
+       "protein": 27
+      },
+      {
+       "kcal": 585,
+       "protein": 16
+      },
+      {
+       "kcal": 352,
+       "protein": 13
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 65,
+       "protein": 10
+      },
+      {
+       "kcal": 316,
+       "protein": 15
+      },
+      {
+       "kcal": 257,
+       "protein": 10
+      }
+     ]
+    },
+    {
+     "meal": "snack",
+     "items": [
+      {
+       "kcal": 386,
+       "protein": 38
+      },
+      {
+       "kcal": 294,
+       "protein": 24
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -672,
+   "protein_gap_g": 0,
+   "open_meals": [],
+   "meal_budgets": {}
+  },
+  {
+   "profile": {
+    "goal_kcal": 2200,
+    "protein_g": 60,
+    "split": {
+     "breakfast": 0.25,
+     "lunch": 0.35,
+     "dinner": 0.4
+    }
+   },
+   "past_day": false,
+   "now": "08:15",
+   "eaten": [],
+   "remaining_kcal": 2200,
+   "protein_gap_g": 60.0,
+   "open_meals": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "meal_budgets": {
+    "breakfast": 550,
+    "lunch": 770,
+    "dinner": 880
+   }
+  },
+  {
+   "profile": {
+    "goal_kcal": 1400,
+    "protein_g": 120,
+    "split": {
+     "breakfast": 0.3,
+     "lunch": 0.4,
+     "dinner": 0.3
+    }
+   },
+   "past_day": false,
+   "now": "23:59",
+   "eaten": [
+    {
+     "meal": "breakfast",
+     "items": [
+      {
+       "kcal": 129,
+       "protein": 36
+      },
+      {
+       "kcal": 225,
+       "protein": 9
+      },
+      {
+       "kcal": 83,
+       "protein": 1
+      }
+     ]
+    },
+    {
+     "meal": "lunch",
+     "items": [
+      {
+       "kcal": 215,
+       "protein": 22
+      },
+      {
+       "kcal": 195,
+       "protein": 1
+      },
+      {
+       "kcal": 81,
+       "protein": 2
+      }
+     ]
+    },
+    {
+     "meal": "dinner",
+     "items": [
+      {
+       "kcal": 699,
+       "protein": 2
+      },
+      {
+       "kcal": 119,
+       "protein": 2
+      },
+      {
+       "kcal": 117,
+       "protein": 37
+      }
+     ]
+    }
+   ],
+   "remaining_kcal": -463,
+   "protein_gap_g": 8.0,
+   "open_meals": [],
+   "meal_budgets": {}
+  }
+ ]
+}
